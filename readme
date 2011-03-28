@@ -1,0 +1,16 @@
+Download whole dir.
+Change directory to "jail".
+Run the script cpshell
+sample testing...
+______________________________
+cd ONJ
+g++ onj.cpp
+./a.out rotating.cpp 2 3
+_______________________________
+./a.out filename problem# timelimit
+problem no.
+rotating.cpp=2
+try.cpp=1
+
+2 files rotating.cpp and try.cpp are in main directory for testing purpose.
+Compilation for .c files has not been enabled yet.
